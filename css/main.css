@@ -1,0 +1,61 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: SansSerif;
+}
+/*start section-header*/
+header{
+    background-color: rgba(0, 0, 255, 0.69);
+    color: white;
+    padding-left: 10rem;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+header span{
+    font-weight: bold;
+}
+/*end section-header*/
+
+/*start of carousel*/
+#carouselExampleControls  .carousel-inner img{
+    height: 40vh;
+}
+
+/*end of carousel*/
+/*start cake section*/
+#section-cakes{
+    padding: 5px;
+    color: gold;
+}
+#section-cakes .container{
+    padding: 5px;
+}
+#section-cakes .cake-title{
+    background-color: rgba(0, 0, 255, 0.69);
+    color:gold;
+    text-align:center;
+    padding: 5px;
+}
+#section-cakes .card{
+    margin-bottom: 1.5rem;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 255, 0.27);
+}
+/*end cake section*/
+/*start footer*/
+footer{
+    height: 30vh;
+    background-color:  rgba(0, 0, 255, 0.69);
+}
+.container .row .card2{
+    padding-top: 80px;
+}
+#section-offers .container h2{
+    padding-top: 50px;
+}
+
+
+
+
+
+/*end footer*/
